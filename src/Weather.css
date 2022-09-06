@@ -1,0 +1,38 @@
+.Weather .weather-box,
+.open-source-text {
+  display: block;
+  margin: 0 auto;
+  top: 30px;
+  max-width: 60%;
+}
+
+.Weather .search-button {
+  width: 105px;
+}
+
+.Weather .default-weather-info {
+  padding-top: 12px;
+}
+
+.Weather .sun-icon,
+.current-temperature {
+  align-self: center;
+  font-size: 45px;
+}
+
+.Weather .degrees {
+  font-size: 15px;
+  vertical-align: text-top;
+}
+
+.Weather .weather-row {
+  display: flex;
+}
+
+.Weather .open-source-text {
+  margin-top: 40px;
+}
+
+.Weather .open-source-link {
+  text-decoration: none;
+}

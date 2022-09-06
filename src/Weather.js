@@ -61,6 +61,17 @@ export default function Weather() {
           </div>
         </div>
       </div>
+      <div className='open-source-text'>
+        <a
+          className='open-source-link'
+          href='https://github.com/sellennya/weather-react'
+          target='_blank'
+          rel='noreferrer'
+        >
+          Open-source code
+        </a>{' '}
+        by Sandra Cardoso
+      </div>
     </div>
   );
 }
